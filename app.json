@@ -20,15 +20,15 @@
   ],
   "env": {
     "SELFBOT_CLIENTID": {
-      "description": "Discord Client Id. Get it here: https://discordapp.com/developers/applications/",
+      "description": "766673886519492649"
 	  "required": true
     },
     "SELFBOT_TOKEN": {
-      "description": "Discord BOT token. Get it here: https://discordapp.com/developers/applications/",
+      "description": "NzY2NjczODg2NTE5NDkyNjQ5.X4mysg.fBkdaeJ4pwarpJYND7oJPmbi7jA",
 	  "required": true
     },
     "SELFBOT_OWNEDIDS": {
-      "description": "Owners Id, to assign more than one use comma(,) to separate. Instructions how to get this: https://nadekobot.readthedocs.io/en/latest/jsons-explained/",
+      "description": "681446153769844736",
 	  "required": true
     },
     "SELFBOT_LOLAPIKEY": {
